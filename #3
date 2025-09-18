@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wimbledon</title>
+</head>
+<body>
+  <h1>Wimbledon is the most famous Grand Slam</h1>
+  <p>Tradition.</p>
+
+  <!-- 👇 Wimbledon Paragraph -->
+  <p>Wimbledon is the most famous of the four Grand Slam tournaments. Held in London, it’s known for its rich history and unique traditions, like the all-white dress code for players, strawberries and cream for fans, and matches played on pristine grass courts. It represents the classic spirit of tennis like no other tournament.</p>
+<img src="Wimbledon.jpeg" alt:="Wimbledon pic." width="300" height="200"
+  <!-- 👇 Home Link -->
+  <a href="index.html">Home</a>
+</body>
+</html>
