@@ -1,10 +1,32 @@
- <!DOCTYPE html>
- <html>
- <head>
-   <title>Subsection</title>
- </head>
- <body>
-   <h1>Second doc!</h1>
-   <p>This is my very first webpage.</p>
- </body>
- </html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>US OPEN</title>
+</head>
+<body>
+  <h1>The best grand slam!</h1>
+  <p>Us open.</p>
+
+  <!-- Optional Heading -->
+  <h2>My Favorite Tennis Tournaments</h2>
+
+  <!-- Grand Slam Logos Image -->
+   <img src="usopen.jpeg" alt:="us open pic." width="300" height="300">
+
+  <!-- Image Caption -->
+  <p style="font-style: italic; color: gray;">
+    These are the logos of the four Grand Slam tournaments: Australian Open, Roland Garros, Wimbledon, and US Open.
+  </p>
+
+  <!-- US Open Paragraph -->
+  <p>
+    The US Open is the best of the four majors because it's held right here in my home country, making it feel more personal and exciting.
+    The energy in New York is unmatched, and watching the tournament live or on TV always feels electric.
+    It’s a celebration of world-class tennis with a uniquely American atmosphere.
+  </p>
+
+  <!-- Link Back to Home Page -->
+  <br>
+  <a href="index.html">Home</a>
+</body>
+</html>
